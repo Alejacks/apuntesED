@@ -3,5 +3,8 @@ cap0
 	ap2
 	ap3
 cap1
+	ap1
+	ap2
+	ap3
 cap2
 cap3
